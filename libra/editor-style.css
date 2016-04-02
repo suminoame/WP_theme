@@ -1,0 +1,7 @@
+body.mceContentBody {
+	font: 13px/1.6 "メイリオ", "ＭＳ Ｐゴシック", "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", Osaka, sans-serif;
+}
+.editor-area a {
+	color: #339933;
+	text-decoration: underline;
+}
